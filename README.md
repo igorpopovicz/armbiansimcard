@@ -11,30 +11,29 @@ https://github.com/Trixarian/sakis3g-source.git
 <br>
 
 ## Installing prerequisites :
-Make sure your device image has the following packages ->
-<br>
+Make sure your device image has the following packages
 - usb-modeswitch
-<br>
+
 ```
 sudo apt-get install usb-modeswitch
 ```
 - ppp
-<br>
+
 ```
 sudo apt-get install ppp
 ```
 - wvdial
-<br>
+
 ```
 sudo apt-get install wvdial
 ```
 - libusb-1.0-0-dev
-<br>
+
 ```
 sudo apt-get install libusb-1.0-0-dev
 ```
 - sakis3g
-<br>
+
 ```
 git clone https://github.com/Trixarian/sakis3g-source.gi
 ```
